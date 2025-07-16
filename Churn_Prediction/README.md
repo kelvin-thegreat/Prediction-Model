@@ -29,8 +29,8 @@ This project is a complete end-to-end solution for predicting customer churn usi
 ## Getting Started
 ### 1. Clone the Repository
 ```
-git clone <your-repo-url>
-cd <project-folder>
+git clone https://github.com/kelvin-thegreat/Prediction-Model.git
+cd Prediction-Model
 ```
 
 ### 2. Set Up Python Environment
