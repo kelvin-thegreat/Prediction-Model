@@ -79,5 +79,3 @@ Or, if using a virtual environment:
 - Ensure `scaler.pkl` and `model.pkl` are present in the project directory before running the app.
 - Update the code if your data columns or model features differ.
 
-## License
-This project is for educational and demonstration purposes. Please adapt and extend for your own use cases.
