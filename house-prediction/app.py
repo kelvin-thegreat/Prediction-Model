@@ -5,7 +5,7 @@ import streamlit as st
 import numpy as np
 
 # Load the trained model
-model = joblib.load("house_price_rf_model.pkl")
+model = joblib.load("house-prediction/house_price_rf_model.pkl")
 
 # --- CSS Styling ---
 st.markdown("""
@@ -87,3 +87,4 @@ if st.button("Predict Price"):
       # 'condition of the house', 'Number of schools nearby'],
 
       # dtype='object')
+
