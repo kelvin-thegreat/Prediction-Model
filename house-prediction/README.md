@@ -87,12 +87,19 @@ house-price-prediction/
 
 ## Screenshots
 
-<img width="932" height="722" alt="image" src="https://github.com/user-attachments/assets/555eece0-6c38-46fe-a3d2-59ca97878447" />
+## 🚀 Live Demo
 
+The model is deployed as an interactive web application using **Streamlit**, allowing users to enter housing details and receive an estimated house price instantly.
+
+👉 **Try the App:**  
+https://prediction-model-tlsbmfaybw3f5yixcjywef.streamlit.app/
+
+<img width="932" height="722" alt="image" src="https://github.com/user-attachments/assets/555eece0-6c38-46fe-a3d2-59ca97878447" />
 
 ##  License
 
 - This project is open-source and available under the MIT License.
+
 
 
 
