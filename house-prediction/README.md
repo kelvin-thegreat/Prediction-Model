@@ -42,12 +42,16 @@ cd <repository-folder>
 - `Install required dependencies`
 - `pip install -r requirements.txt`
 
+---
+
 ### Usage
 - Run the Streamlit app:
 - streamlit run streamlit_app.py
 - The app will open in your default browser.
 - Enter the details of the house in the input boxes.
 - Click Predict Price to see the estimated house price.
+
+---
 
 ### File Structure
 
@@ -82,4 +86,5 @@ house-price-prediction/
 ##  License
 
 - This project is open-source and available under the MIT License.
+
 
