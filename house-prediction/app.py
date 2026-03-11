@@ -1,5 +1,4 @@
 # streamlit_app.py
-from turtle import pd
 import pandas as pd
 import joblib
 import streamlit as st
@@ -11,7 +10,7 @@ model = joblib.load("house_price_rf_model.pkl")
 # --- CSS Styling ---
 st.markdown("""
 <style>
-/* Page background and text color */
+/* Page background and text colour */
 .stApp {
     background-color: #000000;
     color: #ffffff;
@@ -86,4 +85,5 @@ if st.button("Predict Price"):
 
 # Index(['number of bedrooms', 'number of bathrooms', 'living area',
       # 'condition of the house', 'Number of schools nearby'],
+
       # dtype='object')
