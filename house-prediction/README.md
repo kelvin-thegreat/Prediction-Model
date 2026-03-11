@@ -59,13 +59,14 @@ venv\Scripts\activate
 
 ### File Structure
 
+```
 house-price-prediction/
 │
 ├─ house_price_rf_model.pkl     # Trained Random Forest model
 ├─ streamlit_app.py             # Streamlit app code
 ├─ requirements.txt            # Python dependencies
 └─ README.md                   # Project documentation
-
+```
 ## Dependencies
 
 - Python >= 3.8
@@ -92,6 +93,7 @@ house-price-prediction/
 ##  License
 
 - This project is open-source and available under the MIT License.
+
 
 
 
