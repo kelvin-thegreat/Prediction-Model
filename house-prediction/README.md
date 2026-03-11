@@ -16,7 +16,6 @@ This is a **Streamlit-based web application** that predicts house prices in Indi
   - Condition of the house
   - Number of Schools Nearby
 
----
 
 ## Installation
 
@@ -25,23 +24,26 @@ This is a **Streamlit-based web application** that predicts house prices in Indi
 ```bash
 git clone <repository-url>
 cd <repository-folder>
-
+```
 
 ## Create a virtual environment (optional but recommended)
 
-- `python -m venv venv`
-- `Activate the virtual environment`
+ ```bash
+- python -m venv venv
+- Activate the virtual environment
+```
 
 ### On Windows:
-
-- `venv\Scripts\activate`
+```bash
+venv\Scripts\activate
+```
 
 ### On macOS/Linux:
-
-- `source venv/bin/activate`
-- `Install required dependencies`
-- `pip install -r requirements.txt`
-
+```bash
+- source venv/bin/activate
+- Install required dependencies
+- pip install -r requirements.txt
+```
 ---
 
 ### Usage
@@ -50,7 +52,6 @@ cd <repository-folder>
 - The app will open in your default browser.
 - Enter the details of the house in the input boxes.
 - Click Predict Price to see the estimated house price.
-
 ---
 
 ### File Structure
@@ -72,8 +73,9 @@ house-price-prediction/
 - joblib
 
 ### Install dependencies via:
-
-- `pip install pandas numpy scikit-learn streamlit joblib`
+```bash
+- pip install pandas numpy scikit-learn streamlit joblib
+```
 
 ## Model
 
@@ -81,10 +83,12 @@ house-price-prediction/
 
 ## Screenshots
 
-(Add screenshots of your app here for clarity)
+<img width="932" height="722" alt="image" src="https://github.com/user-attachments/assets/555eece0-6c38-46fe-a3d2-59ca97878447" />
+
 
 ##  License
 
 - This project is open-source and available under the MIT License.
+
 
 
