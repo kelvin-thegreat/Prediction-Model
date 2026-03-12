@@ -301,4 +301,16 @@ This analysis demonstrates how mechanistic epidemic models can be used to interp
 
 The estimated transmission rate was approximately **β ≈ 1.7–1.8**, corresponding to a reproduction number near **R₀ ≈ 1.7–1.8** under the assumed recovery rate. Sensitivity and profile likelihood analyses indicated that the transmission parameter is well constrained by the available data.
 
-Overall, the modeling framework illustrates how combining mechanistic models with likelihood-based inference can provide valuable insights into epidemic dynamics. Furthermore, AI-assisted workflows can accelerate epidemiological analysis by helping researchers rapidly implement models, perform inference, and interpret results..
+
+## Acknowledgements
+
+This analysis was conducted as part of the **AMMnet Hackathon: Developing an SIR Model Using Python, Colab, and ChatGPT**, organized by the 
+[Applied Malaria Modeling Network (AMMnet)](https://www.ammnet.org).
+
+AMMnet is an international community that promotes collaboration and capacity building in infectious disease modeling.
+
+Further information about AMMnet can be found on:
+
+- [AMMnet Website](https://www.ammnet.org)
+- [AMMnet on X](https://x.com/AMMnetwork)
+- [AMMnet on LinkedIn](https://www.linkedin.com/company/ammnetwork/)
